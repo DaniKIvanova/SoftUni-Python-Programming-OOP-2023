@@ -20,4 +20,3 @@ class Library:
             if book.title == title:
                 return book
 
-            
